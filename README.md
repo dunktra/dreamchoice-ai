@@ -105,7 +105,9 @@ ___
 ## 🧠 Credits
 
 Created as part of **Code in Place 2025** 
+
 Dreamed up and coded by @dunktra ✨
+
 Powered by OpenAI's GPT API.
 
 Interested in joing Code in Place? Go here 👉 https://codeinplace.stanford.edu/
