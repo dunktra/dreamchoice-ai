@@ -91,8 +91,8 @@ dreamchoice-ai/
 ## 📸 Thumbnail
 
 ![DreamChoice Thumbnail](assets/dreamchoice-thumbnail.png)
-Description: A dreamy digital painting of a surreal sci-fi forest. Glowing plants and misty trees line a winding path under a starry sky. Ethereal, soft lighting casts a magical glow, and strange, mystical creatures peek from behind the foliage. The atmosphere feels like stepping into a lucid dream or alien fairytale.  
-Visual credit goes to OpenAI 🎨🌈.
+**Description:** *A dreamy digital painting of a surreal sci-fi forest. Glowing plants and misty trees line a winding path under a starry sky. Ethereal, soft lighting casts a magical glow, and strange, mystical creatures peek from behind the foliage. The atmosphere feels like stepping into a lucid dream or alien fairytale.*  
+Visual credit goes to OpenAI 🎨🌈
 
 ---
 
