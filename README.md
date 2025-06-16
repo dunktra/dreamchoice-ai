@@ -2,7 +2,7 @@
 
 **DreamChoice AI** is a choose-your-own-adventure game where your decisions shape a surreal dream world — powered by ChatGPT.
 
-Built as a final project for Stanford's **Code in Place 2025**.
+Built as a final project for Stanford's 🔗[**Code in Place 2025**](https://codeinplace.stanford.edu/).
 
 ---
 
@@ -104,8 +104,8 @@ ___
 
 ## 🧠 Credits
 
-Created as part of **Code in Place 2025** 
-Dreamed up and coded by @dunktra ✨
+Created as part of **Code in Place 2025**  
+Dreamed up and coded by @dunktra ✨  
 Powered by OpenAI's GPT API.
 
-Interested in joing Code in Place? ![Go here 👉](https://codeinplace.stanford.edu/)
+Interested in joing Code in Place? [Go here 👉](https://codeinplace.stanford.edu/)
